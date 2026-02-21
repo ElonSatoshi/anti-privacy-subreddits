@@ -5,48 +5,78 @@ This data is only currently based on the top 100 subreddits and will be expanded
 
 [What is an anti-privacy subreddit?](#what-is-an-anti-privacy-subreddit)
 
-| Subreddit Name | Delete Edited Posts? | Ban users who edit posts? |
-| :---         |     :---:      |          ---: |
-| tifu   | Yes     | no    |
-| japantravel   | Yes     | ✅    |
-| bayarea   | Yes     | ✅    |
-|  personalfinance  | Yes     | no    |
-|   business_ideas | Yes     | no    |
-|  trueunpopularopinion  | Yes     | no    |
-|   explainlikeimfive | Yes     | ✅    |
-| productivity   | Yes     | no    |
-|  askreddit  | Yes     | no    |
-|  gaming  | Yes     | no    |
-|  worldnews  | Yes     | no    |
-|  aww  | Yes     | no    |
-|  askscience  | Yes     | no    |
-|  earthporn  | Yes     | no    |
-| explainlikeimfive   | Yes     | no    |
-|  lifeprotips  | Yes     | no    |
-|  photoshopbattle  | Yes     | no    |
-|  oldschoolcool  | Yes     | no    |
-|  listentothis  | Yes     | no    |
-|  writingprompts  | Yes     | no    |
-|  wallstreetbets  | Yes     | no    |
-|  Fitness  | Yes     | no    |
-|   EatCheapAndHealthy | Yes     | no    |
-|  tattoos  | Yes     | no    |
-| nfl   | Yes     | no    |
-|  mildlyinfuriating  | Yes     | no    |
-|  leagueoflegends  | Yes     | no    |
-|  Awwducational  | Yes     | ✅    |
-|  news  | Yes     | ✅    |
-|  thewitcher3  | Yes     | no    |
-|  watchpeopledieinside  | Yes     | ✅    |
-|  tipofmytongue  | no     | ✅    |
-|  politics  | Yes     | ✅    |
+| Subreddit Name       | Delete Edited Posts? | Ban users who edit posts? |
+|:---------------------|:--------------------:|--------------------------:|
+| ukraine              | ✅                    | ✅                         |
+| yurop                | ✅                    | ✅                         |
+| francedetendue       | ✅                    | ✅                         |
+| europeanculture      | ✅                    | ✅                         |
+| europeanunion        | ✅                    | ✅                         |
+| brexitmemes          | ✅                    | ✅                         |
+| lovetrash            | ✅                    | ❌                         |
+| minimalistphotography| ✅                    | ✅                         |
+| explainlikeimfive    | ✅                    | ✅                         |
+| sex                  | ✅                    | ✅                         |
+| sweden               | ✅                    | ✅                         |
+| marriage             | ✅                    | ✅                         |
+| sexover30            | ✅                    | ✅                         |
+| spop                 | ✅                    | ✅                         |
+| credit               | ✅                    | ✅                         |
+| creditscore          | ✅                    | ✅                         |
+| navyfederal          | ✅                    | ✅                         |
+| tifu                 | ✅                    | ❌                         |
+| japantravel          | ✅                    | ✅                         |
+| bayarea              | ✅                    | ✅                         |
+| personalfinance      | ✅                    | ❌                         |
+| business_ideas       | ✅                    | ❌                         |
+| trueunpopularopinion | ✅                    | ❌                         |
+| explainlikeimfive    | ✅                    | ✅                         |
+| productivity         | ✅                    | ❌                         |
+| askreddit            | ✅                    | ❌                         |
+| gaming               | ✅                    | ❌                         |
+| worldnews            | ✅                    | ❌                         |
+| aww                  | ✅                    | ❌                         |
+| askscience           | ✅                    | ❌                         |
+| earthporn            | ✅                    | ❌                         |
+| lifeprotips          | ✅                    | ❌                         |
+| photoshopbattle      | ✅                    | ❌                         |
+| oldschoolcool        | ✅                    | ❌                         |
+| listentothis         | ✅                    | ❌                         |
+| writingprompts       | ✅                    | ❌                         |
+| wallstreetbets       | ✅                    | ❌                         |
+| Fitness              | ✅                    | ❌                         |
+| EatCheapAndHealthy   | ✅                    | ❌                         |
+| tattoos              | ✅                    | ❌                         |
+| nfl                  | ✅                    | ❌                         |
+| mildlyinfuriating    | ✅                    | ❌                         |
+| leagueoflegends      | ✅                    | ❌                         |
+| Awwducational        | ✅                    | ✅                         |
+| news                 | ✅                    | ✅                         |
+| thewitcher3          | ✅                    | ❌                         |
+| watchpeopledieinside | ✅                    | ✅                         |
+| tipofmytongue        | ❌                    | ✅                         |
+| politics             | ✅                    | ✅                         |
+| ContagiousLaughter   | ✅                    | ❌                         |
+| blackmagicfuckery    | ✅                    | ❌                         |
+| TIHI                 | ✅                    | ❌                         |
+| hellsomememes        | ✅                    | ❌                         |
+| OpenUniversity       | ✅                    | ❌                         |
+| animalsbeingbros     | ✅                    | ✅                         |
+| candles              | ✅                    | ✅                         |
+| codes                | ❌                    | ✅                         |
+| queens               | ❌                    | ✅                         |
+| food                 | ✅                    | ✅                         |
+| HeSquats             | ✅                    | ✅                         |
+| broslikeus           | ✅                    | ✅                         |
+| noContract           | ❌                    | ✅                         |
+| Scams                | ✅                    | ✅                         |
 
 
 ### What is an Anti-Privacy Subreddit?
 
 Some subreddits have their automod setup to catch posts that contain certain keywords, pertaining to mass-edit/deletion software.
 Examples are:
-Shreddit, [Redact.dev](https://redact.dev) and github.com/j0be/PowerDeleteSuite
+Shreddit, [Redact.dev](https://redact.dev) and PowerDeleteSuite
 
 Automod will look for terms such as the above names or phrases like "Mass deleted" or "Mass edited" to remove your comments and/or ban you.
 
@@ -54,7 +84,7 @@ Editing your Reddit posts and leaving them in place means that third party "scra
 
 While it may be frustrating to come across deleted or edited comments when searching Reddit for information, the privacy of the individual poster or commenter is more important than the general Reddit experience. 
 
-Reddit, its moderators and admins should be supportive of you taking steps to secure your privacy and clean up your digital footprint. Privacy is a hard fought right, being stripped away more and more every day. It's up to you to take proactive steps to protect your digital privacy with tools like [Redact.dev](https://redact.dev). One day, platforms like Reddit, Facebook, and Twitter/X may not even allow you to delete your old content.
+Reddit, its moderators and admins should be supportive of you taking steps to secure your privacy and clean up your digital footprint. Privacy is a hard fought right, being stripped away more and more every day. It's up to you to take proactive steps to protect your digital privacy with tools like Redact. One day, platforms like Reddit, Facebook, and Twitter/X may not even allow you to delete your old content.
 
 People who want to protect themselves from AI Harvesting, stylometry attacks, phishing, harassment, stalkers or countless other harms have every right to anonymize their content. Subreddits punishing people for protecting their privacy is unethical and puts the desires of the platform over the rights of the people using it.
 
@@ -62,7 +92,7 @@ People who want to protect themselves from AI Harvesting, stylometry attacks, ph
 
 Letting the subreddits know that what they are doing is anti-privacy and why they stop should be priority number one. Many will be hostile and simply refer to the edits as spam and not want to engage further. Some will change their approach.
 
-For [Redact.dev](https://redact.dev) , when you choose to edit your posts, we are now using this github list of subreddits to send randomized edits that have no common identifying strings or tags when a post is in one of the target subreddits. 
+For Redact.dev, when you choose to edit your posts, we are now using this github list of subreddits to send randomized edits that have no common identifying strings or tags when a post is in one of the target subreddits. 
 
 This will prevent the automod from automatically deleting the posts. If the subreddit wants to go and delete them still, they will have to do so via manual interaction by a moderator. 
 
