@@ -1,7 +1,7 @@
 # anti-privacy-subreddits
 The following is a list of subreddits that will ban you for editing your past posts and/or delete any edit(s) you made.
 
-This data is only currently based on the top 100 subreddits and will be expanded shortly. If you have more data, please [Submit a PR](https://github.com/harknesslabs/anti-privacy-subreddits/pulls).
+This data is only currently based on the top 100 subreddits and will be expanded shortly. If you have more data, please [Submit a PR](https://github.com/redacto/anti-privacy-subreddits/pulls).
 
 [What is an anti-privacy subreddit?](#what-is-an-anti-privacy-subreddit)
 
@@ -30,9 +30,8 @@ This data is only currently based on the top 100 subreddits and will be expanded
 | personalfinance      | ✅                    | ❌                         |
 | business_ideas       | ✅                    | ❌                         |
 | trueunpopularopinion | ✅                    | ❌                         |
-| explainlikeimfive    | ✅                    | ✅                         |
 | productivity         | ✅                    | ❌                         |
-| askreddit            | ✅                    | ❌                         |
+| askreddit            | ✅                    | ✅                         |
 | gaming               | ✅                    | ❌                         |
 | worldnews            | ✅                    | ❌                         |
 | aww                  | ✅                    | ❌                         |
@@ -115,6 +114,6 @@ Then, wait at least a day and then Edit your post to a known string that will tr
 
 "impossible gray toothbrush hungry dam wild bag rotten intelligent future
 
-This post was mass deleted and anonymized with Redact"
+This post was anonymized with [Redact](https://redact.dev)"
 
 Then once again, open your comment in a new incognito window. If it still appears after 10 seconds, the subreddit is likely not hostile. If the comment is missing, its hostile because the automod immediately deleted your post.
